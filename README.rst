@@ -128,3 +128,8 @@ __ LuisAlejandroTwitter_
 
 |
 |
+
+
+.. image:: https://badges.gitter.im/LuisAlejandro/doctorhastie.svg
+   :alt: Join the chat at https://gitter.im/LuisAlejandro/doctorhastie
+   :target: https://gitter.im/LuisAlejandro/doctorhastie?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
